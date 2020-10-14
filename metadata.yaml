@@ -1,5 +1,8 @@
 _repo: The-Hairy-Ones_63398
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63398-h/images/cover.jpg
 creator:
   author:
     agent_name: Wells, Basil
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33148
     wikipedia: https://en.wikipedia.org/wiki/Basil_Wells
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63398#The-Hairy-Ones
 gutenberg_issued: '2020-10-07'
 gutenberg_type: Text
 identifiers:
